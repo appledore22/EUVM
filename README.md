@@ -15,4 +15,6 @@ make run
 
 ### Websites
 chipsalliance.org  
+agilemanifesto.org  
+
 
