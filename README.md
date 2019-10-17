@@ -18,8 +18,8 @@ chipsalliance.org
 agilemanifesto.org  
 
 ### Books
-Gang of Four : Uncle Bob
-Writing Testbench using SV : Janick Bergeron
+Gang of Four : Uncle Bob  
+Writing Testbench using SV : Janick Bergeron  
 A Practical Guide to Adopting the Universal Verification Methodology (UVM) Second Edition : Sharon Rosenberg and Kathleen Meade  
 Hardware Design Verification : William Lam  
 
