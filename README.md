@@ -17,4 +17,11 @@ make run
 chipsalliance.org  
 agilemanifesto.org  
 
+### Books
+Hardware Design Verification : William Lam  
+
+### Repositires
+https://github.com/uvm
+
+
 
