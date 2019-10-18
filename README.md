@@ -22,10 +22,25 @@ Gang of Four : Uncle Bob
 Writing Testbench using SV : Janick Bergeron  
 A Practical Guide to Adopting the Universal Verification Methodology (UVM) Second Edition : Sharon Rosenberg and Kathleen Meade  
 Hardware Design Verification : William Lam  
+The UNIX Programming Environment Paperback – 2015 by Kernighan & Pike   
 
 ### Repositires
 Files from the wrokshop were downloaded from -  
 https://github.com/uvm
+
+### Git Commands
+git reset --hard  
+Removes the changes made after recent commit
+
+git logs  
+show the history of commit  
+
+git add  
+Adds files to stage for commiting  
+
+git status  
+Shows the status(untracked,tracked,staging) for different files  
+
 
 
 
