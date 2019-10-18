@@ -39,7 +39,14 @@ git add
 Adds files to stage for commiting  
 
 git status  
-Shows the status(untracked,tracked,staging) for different files  
+Shows the status(untracked,tracked,staging) for different files
+
+git push
+Pushs the changes from local repo to remote repo  
+
+### Commands for ssh
+ssh-keygen  
+Generating new ssh key file.  
 
 
 
